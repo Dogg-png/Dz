@@ -14,10 +14,8 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-name = "Alexandr"
-print(name,type(name))
-age = 21
-new_age = 1
-print(age+new_age)
-print(bool('is_student'))
-
+the_number_of_completed_dz = '12'
+Number_of_hours_spent = '1.5'
+CourseName = 'Python'
+Time_for_one_task = '0.125'
+print(CourseName,the_number_of_completed_dz,Number_of_hours_spent,Time_for_one_task)
