@@ -18,4 +18,5 @@ the_number_of_completed_dz = '12'
 Number_of_hours_spent = '1.5'
 CourseName = 'Python'
 Time_for_one_task = '0.125'
-print(CourseName,the_number_of_completed_dz,Number_of_hours_spent,Time_for_one_task)
+print('Курс:',CourseName,"всего задач:",the_number_of_completed_dz,'затраченно часов:',Number_of_hours_spent,'среднее время выполнения:',Time_for_one_task)
+
