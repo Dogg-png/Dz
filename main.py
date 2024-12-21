@@ -14,9 +14,9 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-the_number_of_completed_dz = '12'
-Number_of_hours_spent = '1.5'
-CourseName = 'Python'
-Time_for_one_task = '0.125'
-print('Курс:',CourseName,"всего задач:",the_number_of_completed_dz,'затраченно часов:',Number_of_hours_spent,'среднее время выполнения:',Time_for_one_task)
-
+name = 'Топинамбур'
+print(name[0])
+print(name[-1])
+print(name[5:10])
+print(name[::-1])
+print(name[1:10:2])
